@@ -19,3 +19,4 @@ doOperations(2, 5);
 doOperations(8, 3);
 doOperations(-3, 12);
 doOperations(13, 7);
+doOperations(5, 5);
